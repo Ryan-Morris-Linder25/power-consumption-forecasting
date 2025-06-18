@@ -28,9 +28,9 @@ This project forecasts residential energy consumption using machine learning and
 ## Contributors
 - **Ryan Morris** – Led project coordination, developed CNN1D model, handled data wrangling and error analysis, and structured initial code framework.
 
--**Ethan Chaney** – Built Exponential Smoothing model; contributed to exploratory data analysis and visualizations.
+- **Ethan Chaney** – Built Exponential Smoothing model; contributed to exploratory data analysis and visualizations.
 
--**Keegean Mcgorry** – Built ARIMA model; contributed to exploratory data analysis and visualizations.
+- **Keegean Mcgorry** – Built ARIMA model; contributed to exploratory data analysis and visualizations.
 
 ## Notes
 Created as the final project for BANA 4090: Forecasting and Risk Analytics. The focus was on presenting practical insights from predictive models to a business audience.
