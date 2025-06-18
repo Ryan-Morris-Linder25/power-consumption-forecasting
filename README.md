@@ -23,7 +23,7 @@ This project forecasts residential energy consumption using machine learning and
 
 ## Deliverables
 - `Group14_FinalProject_BANA4090.ipynb`: Full model development, tuning, and evaluation process
-      **Requires Power_Consumption.csv** to be in the same folder as it is executed.
+-     **Requires Power_Consumption.csv** to be in the same folder as it is executed.
 
 ## Contributors
 - **Ryan Morris** – Led project coordination, developed CNN1D model, handled data wrangling and error analysis, and structured initial code framework.
